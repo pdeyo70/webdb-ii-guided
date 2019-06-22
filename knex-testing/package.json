@@ -1,0 +1,12 @@
+{
+  "name": "knex-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Paul DeYonghe <p.deyonghe@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "knew": "^0.0.0",
+    "knex": "^0.17.6",
+    "sqlite3": "^4.0.9"
+  }
+}
